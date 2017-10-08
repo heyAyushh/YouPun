@@ -1,5 +1,5 @@
 # YouPun
-YouPun is a chatbot which replies and chats humorously making shitty puns.
+is a chatbot which replies and chats humorously making shitty puns.
 
 Project Dependencies are 
 
@@ -7,7 +7,7 @@ Project Dependencies are
 -Restify for server based applications(npm install Restify)
 
 also Bot-Framework Emulator to debugging it (or Use VSCode for it).
--------------------------------------------------------------------------------------------------------------------------
+
 
 YouPun works on Phonetics of Language English and Thereby doesn't support any other Language.
 
@@ -17,4 +17,3 @@ This v1.0 may not make sense in replies but maybe after some development it will
 
 KUDOS to Everyone Reading this and Failing to understand.
 
----------------------------------------------------------------------------------------------------------------------------
