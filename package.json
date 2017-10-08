@@ -1,0 +1,31 @@
+{
+  "name": "youpun",
+  "version": "1.0.0",
+  "description": "Punny Conversationalist",
+  "main": "main.js",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyAyushh/YouPun.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Botbuilder",
+    "pun",
+    "joke",
+    "bot"
+  ],
+  "author": "Ayush Chauhan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/heyAyushh/YouPun/issues"
+  },
+  "homepage": "https://github.com/heyAyushh/YouPun#readme"
+}
