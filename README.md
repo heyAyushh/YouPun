@@ -13,7 +13,7 @@ YouPun works on Phonetics of Language English and Thereby doesn't support any ot
 
 After Having the reply we just need to replace a noun with other word having atleast n-2 phonetics in common (considering n phonetics of the word)(from Dictionary).
 
-# finally
+# Finally
 This v1.0 may not make sense in replies but maybe after some development it will.
 
 # Thankyou
